@@ -29,10 +29,10 @@ body {
 /* MAIN CONTAINER */
 
 .container--main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 56rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 56rem;
 }
 
 .container {
